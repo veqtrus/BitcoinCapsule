@@ -120,11 +120,8 @@
   <metadata name="toolStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
-  <metadata name="toolStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
-  </metadata>
   <data name="textBox1.Text" xml:space="preserve">
-    <value>Bitcoin Capsule version 0.1
+    <value>Bitcoin Capsule version 1.0
 Copyright © 2015 Paul Georgiou
 
 Distributed under the MIT software license, see the accompanying file LICENSE.txt.
